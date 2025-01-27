@@ -1,4 +1,3 @@
   method Z_GCTSMETHOD.
-    Write 'gcts testing'.
-    WRITE 'testing'.
+    WRITE 'commit_check'.
   endmethod.
