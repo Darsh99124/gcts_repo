@@ -1,3 +1,3 @@
   method Z_GCTSMETHOD.
-    WRITE 'commit_ch'.
+    WRITE 'commit'.
   endmethod.
